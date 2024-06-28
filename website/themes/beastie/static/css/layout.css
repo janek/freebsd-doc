@@ -326,6 +326,8 @@ header {
 .newseventslist li.last-child {
   border-right: 0;
   padding-right: 0;
+  display: inline-block;
+  line-height: 0.9em;
 }
 
 .newseventslist li.first-child {
