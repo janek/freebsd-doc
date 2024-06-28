@@ -151,7 +151,7 @@ header {
 #frontfeaturemiddle {
   float: left;
   margin-top: 20px;
-  background: url(../images/beastie.png) no-repeat top left;
+  background: url(../images/beastie.png) no-repeat center left;
   min-height: 196px;
   width: 30%;
 }
