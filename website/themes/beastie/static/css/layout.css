@@ -374,7 +374,7 @@ header {
 #frontreleases {
   padding: 0;
   margin: 8px;
-  margin-left: 190px;
+  margin-left: 210px;
   margin-top: 5px;
   padding-bottom: 20px;
   color: #666;
@@ -476,11 +476,17 @@ header {
 }
 
 .frontgetroundbox {
-  margin-top: 50px;
-  margin-left: 160px;
+  margin-top:10px;
+  margin-left: 210px;
   padding: 0;
-  width: 190px;
+  width: 325px;
   background-color: #FACC2E;
+  border-radius: 15px;
+}
+
+.frontgetroundbox.newtofreebsd {
+  margin-top: 50px;
+  background-color: #EEEEEE;
   border-radius: 15px;
 }
 
