@@ -329,11 +329,7 @@ header {
 }
 
 .newseventslist li.first-child {
-    margin: 0;
-    padding-left: 12px;
-    background-image: url(../images/blt_red_arrow.png);
-    background-repeat: no-repeat;
-    background-position: 0px 0.5em;
+  padding-left: 0;
 }
 
 .newseventslist li.only-child {
